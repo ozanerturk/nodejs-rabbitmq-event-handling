@@ -2,3 +2,6 @@
 
 
 An example application for event oriented programing with node.js and rabbitmq.
+
+![achitecture](/architecture.png)
+
